@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T23:42:30.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.6.5" etag="ASydwgHXeyrYSd3GllHa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T23:48:05.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="49-pEL08NtL5mxbQ2WuM" version="24.6.5" type="github">
   <diagram name="Page-1" id="dbrxAhzCIJZhIyj1XYBA">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oM58pHl83kPPtiYQCpX2-1" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-2" value="My Library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-3" value="My Drafts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-4" value="Tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-5" value="AI Training Center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
