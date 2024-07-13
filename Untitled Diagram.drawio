@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T00:20:02.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="ntXOeFIKTOPMvZi0iKcr" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T00:31:52.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="lLMDyi5BiKFGfQJO2XE4" version="24.6.5" type="github">
   <diagram name="Page-1" id="dbrxAhzCIJZhIyj1XYBA">
     <mxGraphModel dx="1194" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -161,6 +161,69 @@
         </mxCell>
         <mxCell id="oM58pHl83kPPtiYQCpX2-48" value="Group and User Drill-Down" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-56" value="Manage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-210" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-58" value="Sources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-60" value="Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-61" value="Groups" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-62" value="Admins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-63" value="HRIS Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-64" value="SSO/SCIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-65" value="Collection Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-66" value="Card Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-67" value="Tag Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-68" value="Automations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-69" value="Users and Groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-210" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-70" value="Collections" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-71" value="Knowledge Syncs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-72" value="Duplicate Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-73" value="Auto Archive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-74" value="Knowledge Triggers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-76" value="Apps and Integrations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-77" value="Workspaces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-78" value="Guru Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oM58pHl83kPPtiYQCpX2-79" value="Recent Activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
