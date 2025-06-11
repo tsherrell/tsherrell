@@ -1,7 +1,7 @@
 ---
 description: >-
   UX Architect & Product Designer helping teams simplify complexity with AI,
-  systems thinking, and human-centered design.
+  systems thinking, and human-centred design.
 layout:
   title:
     visible: true
@@ -22,11 +22,13 @@ I help teams untangle complexity and build humane, scalable systems – often in
 
 My work blends deep systems thinking with hands-on delivery. Whether I’m mapping flows, writing UX specs, or designing with generative tools, I focus on one thing: making hard things easier to understand and use.
 
-This is my temporary portfolio.
+_This is my temporary portfolio._
 
 **Curious how I might help with your project?** [Let’s talk.](./#contact-information)
 
-## Work examples
+***
+
+## ✏️ Work examples
 
 ### AI-powered business document & workflow automation
 
@@ -64,7 +66,9 @@ As UX Architect, I conducted an in-depth use case audit to facilitate the integr
 
 <figure><img src=".gitbook/assets/Team Member Collects a Single Payment or Sets-up Multiple Payments - ACH cropped cover.png" alt=""><figcaption><p>Closup of flow diagram</p></figcaption></figure>
 
-## Case studies
+***
+
+## 📚 Case studies
 
 ### Automating support with AI – a hard lesson
 
@@ -95,6 +99,8 @@ It reminded me that:
 
 I don’t showcase this project as a proud achievement, but as a _real-world example_ of how AI can reshape work – and how designers must grapple with the implications. It’s a story I continue to unpack as I grow.
 
+***
+
 ### Rapid CMS ramp-up – building a Drupal sandbox for public sector UX
 
 #### Overview
@@ -123,6 +129,8 @@ While this wasn’t a shipped product, it represents one of my most important qu
 This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
 
 </details>
+
+***
 
 ## Contact information
 
