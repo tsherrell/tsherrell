@@ -119,6 +119,14 @@ While this wasn’t a shipped product, it represents one of my most important qu
 > **🧠 Designed with AI Collaboration**\
 > This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
 
+<details>
+
+<summary><strong>🧠 Designed with AI Collaboration</strong></summary>
+
+This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
+
+</details>
+
 ## Contact information
 
 Interested in working together? Fill out the form below. 👇
