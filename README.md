@@ -132,7 +132,7 @@ This self-initiated project was shaped with support from a specialised AI agent 
 
 ***
 
-## Contact information
+## 💬 Contact information
 
 Interested in working together? Fill out the form below. 👇
 
