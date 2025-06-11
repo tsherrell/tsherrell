@@ -58,6 +58,10 @@ As UX Architect, I conducted an in-depth use case audit to facilitate the integr
 
 <figure><img src=".gitbook/assets/Team Member Collects a Single Payment or Sets-up Multiple Payments - ACH cropped cover.png" alt=""><figcaption><p>Closup of flow diagram</p></figcaption></figure>
 
+## Case Studies
+
+
+
 ## Contact information
 
 Interested in working together? Fill out the form below. 👇
