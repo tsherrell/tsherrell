@@ -64,25 +64,25 @@ As UX Architect, I conducted an in-depth use case audit to facilitate the integr
 
 <figure><img src=".gitbook/assets/Team Member Collects a Single Payment or Sets-up Multiple Payments - ACH cropped cover.png" alt=""><figcaption><p>Closup of flow diagram</p></figcaption></figure>
 
-## Case Studies
+## Case studies
 
-### Case Study: Automating Support with AI – A Hard Lesson
+### Automating support with AI – a hard lesson
 
 #### Overview
 
 In 2023, I contributed to a generative AI initiative at a large ecommerce company, where the goal was to streamline internal employee support through automation. The outcome, while technically effective, had human consequences I still reflect on.
 
-#### My Role
+#### My role
 
 * Prompt engineering for internal support queries
 * QA testing of AI-generated responses
 * Flagging edge cases and improving fallback logic
 
-#### The Context
+#### The context
 
 The system replaced the first tier of human support staff. Though the framing emphasised freeing up workers for higher-value tasks, I later questioned whether that redirection ever occurred – or whether those jobs were quietly eliminated.
 
-#### What I Learned
+#### What I learned
 
 This experience marked a turning point in how I think about ethical UX and AI.\
 It reminded me that:
@@ -91,11 +91,11 @@ It reminded me that:
 * Designers are often downstream from decisions – but not without responsibility
 * It’s okay to feel uncomfortable – and to speak about it
 
-#### Why I’m Sharing This
+#### Why I’m sharing this
 
 I don’t showcase this project as a proud achievement, but as a _real-world example_ of how AI can reshape work – and how designers must grapple with the implications. It’s a story I continue to unpack as I grow.
 
-### Case Study: Rapid CMS Ramp-Up – Building a Drupal Sandbox for Public Sector UX
+### Rapid CMS ramp-up – building a Drupal sandbox for public sector UX
 
 #### Overview
 
@@ -118,7 +118,7 @@ While this wasn’t a shipped product, it represents one of my most important qu
 
 <details>
 
-<summary><strong>🧠 Designed with AI Collaboration</strong></summary>
+<summary><strong>🧠 Designed with AI collaboration</strong></summary>
 
 This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
 
