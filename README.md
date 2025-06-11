@@ -95,6 +95,30 @@ It reminded me that:
 
 I don’t showcase this project as a proud achievement, but as a _real-world example_ of how AI can reshape work – and how designers must grapple with the implications. It’s a story I continue to unpack as I grow.
 
+### Case Study: Rapid CMS Ramp-Up – Building a Drupal Sandbox for Public Sector UX
+
+#### Overview
+
+When applying for a Website Lead role at the Washington State Department of Revenue, I identified Drupal CMS as a core requirement. Though I had broad CMS and UX experience, I lacked hands-on Drupal work – so I built a local sandbox environment to up-skill fast and honestly.
+
+#### Approach
+
+* Installed and configured a working instance of Drupal in a local development environment
+* Familiarised myself with core concepts: content types, taxonomy, permissions, and theming
+* Mapped example content and workflows to public-sector use cases (e.g. tasks, services, form submissions)
+* Connected learnings to WCAG, plain language, and government accessibility standards
+
+#### Outcome
+
+This project helped me speak credibly and confidently about Drupal in my application, cover letter, and interview preparation. It also reinforced my broader strengths in CMS thinking, public accessibility, and rapid onboarding – skills highly transferable to public-sector UX leadership.
+
+#### Reflection
+
+While this wasn’t a shipped product, it represents one of my most important qualities: the willingness to build what doesn’t exist yet, to learn what’s needed, and to map that learning back to user needs and business goals.
+
+> **🧠 Designed with AI Collaboration**\
+> This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
+
 ## Contact information
 
 Interested in working together? Fill out the form below. 👇
