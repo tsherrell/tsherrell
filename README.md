@@ -1,8 +1,7 @@
 ---
 description: >-
-  My name is Trent Sherrell. I'm an AI-focused UX/Product Designer with
-  expertise in AI-driven user experiences, generative AI workflows, & UX
-  architecture.
+  UX Architect & Product Designer helping teams simplify complexity with AI,
+  systems thinking, and human-centered design.
 layout:
   title:
     visible: true
@@ -18,7 +17,14 @@ layout:
 
 # 👋 Hello!
 
+Hi, I’m Trent Sherrell – a UX Architect and Product Designer specializing in clarity.\
+I help teams untangle complexity and build humane, scalable systems – often involving AI, information architecture, or both.
+
+My work blends deep systems thinking with hands-on delivery. Whether I’m mapping flows, writing UX specs, or designing with generative tools, I focus on one thing: making hard things easier to understand and use.
+
 This is my temporary portfolio.
+
+**Curious how I might help with your project?** [Let’s talk.](./#contact-information)
 
 ## Work examples
 
