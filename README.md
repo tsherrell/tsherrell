@@ -66,7 +66,34 @@ As UX Architect, I conducted an in-depth use case audit to facilitate the integr
 
 ## Case Studies
 
+### Case Study: Automating Support with AI – A Hard Lesson
 
+#### Overview
+
+In 2023, I contributed to a generative AI initiative at a large ecommerce company, where the goal was to streamline internal employee support through automation. The outcome, while technically effective, had human consequences I still reflect on.
+
+#### My Role
+
+* Prompt engineering for internal support queries
+* QA testing of AI-generated responses
+* Flagging edge cases and improving fallback logic
+
+#### The Context
+
+The system replaced the first tier of human support staff. Though the framing emphasised freeing up workers for higher-value tasks, I later questioned whether that redirection ever occurred – or whether those jobs were quietly eliminated.
+
+#### What I Learned
+
+This experience marked a turning point in how I think about ethical UX and AI.\
+It reminded me that:
+
+* Efficiency has consequences beyond the interface
+* Designers are often downstream from decisions – but not without responsibility
+* It’s okay to feel uncomfortable – and to speak about it
+
+#### Why I’m Sharing This
+
+I don’t showcase this project as a proud achievement, but as a _real-world example_ of how AI can reshape work – and how designers must grapple with the implications. It’s a story I continue to unpack as I grow.
 
 ## Contact information
 
