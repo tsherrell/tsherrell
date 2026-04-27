@@ -2,17 +2,6 @@
 description: >-
   UX Architect & Product Designer helping teams simplify complexity with AI,
   systems thinking, and human-centred design.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 👋 Hello!
