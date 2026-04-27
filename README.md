@@ -1,17 +1,10 @@
 ---
-description: >-
-  UX Architect & Product Designer helping teams simplify complexity with AI,
-  systems thinking, and human-centred design.
+description: Product Manager | Workflow Systems & Process Design | AI-Driven Platforms
 ---
 
 # 👋 Hello!
 
-Hi, I’m Trent Sherrell – a UX Architect and Product Designer specializing in clarity.\
-I help teams untangle complexity and build humane, scalable systems – often involving AI, information architecture, or both.
-
-My work blends deep systems thinking with hands-on delivery. Whether I’m mapping flows, writing UX specs, or designing with generative tools, I focus on one thing: making hard things easier to understand and use.
-
-_This is my temporary portfolio._
+Hi, I'm Trent Sherrell—a Product Manager specializing in workflow systems, payments, and AI-driven platforms. I help teams bring order to complex operational environments where software meets real-world process. My work spans product strategy, UX systems thinking, and hands-on AI integration across fintech, media, compliance, and e-commerce.
 
 **Curious how I might help with your project?** [Let’s talk.](./#contact-information)
 
@@ -56,68 +49,6 @@ As UX Architect, I conducted an in-depth use case audit to facilitate the integr
 <figure><img src=".gitbook/assets/Team Member Collects a Single Payment or Sets-up Multiple Payments - ACH cropped cover.png" alt=""><figcaption><p>Closup of flow diagram</p></figcaption></figure>
 
 ***
-
-## 📚 Case studies
-
-### Automating support with AI – a hard lesson
-
-#### Overview
-
-In 2023, I contributed to a generative AI initiative at a large ecommerce company, where the goal was to streamline internal employee support through automation. The outcome, while technically effective, had human consequences I still reflect on.
-
-#### My role
-
-* Prompt engineering for internal support queries
-* QA testing of AI-generated responses
-* Flagging edge cases and improving fallback logic
-
-#### The context
-
-The system replaced the first tier of human support staff. Though the framing emphasised freeing up workers for higher-value tasks, I later questioned whether that redirection ever occurred – or whether those jobs were quietly eliminated.
-
-#### What I learned
-
-This experience marked a turning point in how I think about ethical UX and AI.\
-It reminded me that:
-
-* Efficiency has consequences beyond the interface
-* Designers are often downstream from decisions – but not without responsibility
-* It’s okay to feel uncomfortable – and to speak about it
-
-#### Why I’m sharing this
-
-I don’t showcase this project as a proud achievement, but as a _real-world example_ of how AI can reshape work – and how designers must grapple with the implications. It’s a story I continue to unpack as I grow.
-
-***
-
-### Rapid CMS ramp-up – building a Drupal sandbox for public sector UX
-
-#### Overview
-
-When applying for a Website Lead role at the Washington State Department of Revenue, I identified Drupal CMS as a core requirement. Though I had broad CMS and UX experience, I lacked hands-on Drupal work – so I built a local sandbox environment to up-skill fast and honestly.
-
-#### Approach
-
-* Installed and configured a working instance of Drupal in a local development environment
-* Familiarised myself with core concepts: content types, taxonomy, permissions, and theming
-* Mapped example content and workflows to public-sector use cases (e.g. tasks, services, form submissions)
-* Connected learnings to WCAG, plain language, and government accessibility standards
-
-#### Outcome
-
-This project helped me speak credibly and confidently about Drupal in my application, cover letter, and interview preparation. It also reinforced my broader strengths in CMS thinking, public accessibility, and rapid onboarding – skills highly transferable to public-sector UX leadership.
-
-#### Reflection
-
-While this wasn’t a shipped product, it represents one of my most important qualities: the willingness to build what doesn’t exist yet, to learn what’s needed, and to map that learning back to user needs and business goals.
-
-<details>
-
-<summary><strong>🧠 Designed with AI collaboration</strong></summary>
-
-This self-initiated project was shaped with support from a specialised AI agent I developed to accelerate my learning in CMS systems and AI-driven design workflows. I regularly create focused agents to extend my capabilities – whether it's analysing healthcare options, assisting with technical writing, or speeding up UX prototyping. For this Drupal sandbox, I partnered with an AI assistant trained on public-sector UX patterns and Drupal documentation to help structure the learning path, validate key concepts, and simulate collaborative critique. It’s a method I increasingly use to learn faster, design more ethically, and document more clearly.
-
-</details>
 
 ***
 
